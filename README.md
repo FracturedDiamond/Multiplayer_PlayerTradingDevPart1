@@ -4,7 +4,7 @@ Video of me posting the trade:
 
 
 
-![Unity_PlayerTrading](https://user-images.githubusercontent.com/49692399/142943077-d520eaed-8904-4358-aa36-5aebea099b7c.mp4)
+https://user-images.githubusercontent.com/49692399/142943077-d520eaed-8904-4358-aa36-5aebea099b7c.mp4
 
 
 
