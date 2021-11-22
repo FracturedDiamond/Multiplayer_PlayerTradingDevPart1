@@ -9,6 +9,10 @@ Video of me posting the trade:
 
 
 
+https://user-images.githubusercontent.com/49692399/142943298-469cc9d9-95d4-4432-9729-09b893475862.mp4
+
+
+
 
 
 Screenshot of my player's updated inventory on PlayFab:
