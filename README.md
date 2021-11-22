@@ -9,11 +9,7 @@ https://user-images.githubusercontent.com/49692399/142943077-d520eaed-8904-4358-
 
 
 
-https://user-images.githubusercontent.com/49692399/142943298-469cc9d9-95d4-4432-9729-09b893475862.mp4
-
-
-
-
 
 Screenshot of my player's updated inventory on PlayFab:
+
 ![PlayFab_PlayerTrading](https://user-images.githubusercontent.com/49692399/142942732-f70ad07f-8caf-4a29-9f2a-a5d1e4164a87.png)
