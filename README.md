@@ -1,7 +1,7 @@
 # Multiplayer_PlayerTradingDevPart1
 
 Video of me posting the trade:
-https://user-images.githubusercontent.com/49692399/142942723-9353507b-ee31-4b8b-b1fb-db9b36b38bd7.mp4
+
 
 
 Screenshot of my player's updated inventory on PlayFab:
