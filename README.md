@@ -1,7 +1,12 @@
 # Multiplayer_PlayerTradingDevPart1
 
 Video of me posting the trade:
-https://user-images.githubusercontent.com/49692399/142942886-189ecd99-0bc9-4bf4-b9bb-b0fce04abba2.mp4
+
+
+
+![Unity_PlayerTrading](https://user-images.githubusercontent.com/49692399/142943077-d520eaed-8904-4358-aa36-5aebea099b7c.mp4)
+
+
 
 
 
